@@ -14,7 +14,7 @@
 
 - Vorlesung: Di 10:15-11:45 (Axel Wisiorek)
 - Übung: Mi 14:15-15:45 (Kerem Şenel)
-- Tutorium: *folgt* (Swantje Kastrup)
+- Tutorium: Fr 14:15-15:45  (Swantje Kastrup)
 
 ***Alle Veranstaltungen finden online statt (Zoom-Link wird per Rundmail und in Moodle mitgeteilt).***
 
