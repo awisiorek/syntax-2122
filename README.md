@@ -82,7 +82,7 @@
 | Vorlesung |  Übung | Thema 
 | ------------- | ------------- | ------------- | 
 | Di, 01.02.22 | Mi, 02.02.22 | 14. **Neural Parsing** & *Klausurvorbereitung*   | 
-| Di, 08.02.22 | Mi, 09.02.22 |  ***Klausur***  | 
+| Di, 08.02.22 | Mi, 09.02.22 |  ***Klausurvorbereitung***  | 
 
 
 
@@ -90,7 +90,7 @@
 
 | Datum  | Termin | 
 | ------------- | ------------- | 
-|  09.02.2022 | 14 Uhr   | 
+|  folgt |    | 
 
 
 
