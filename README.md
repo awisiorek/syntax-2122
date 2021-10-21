@@ -90,7 +90,7 @@
 
 | Datum  | Termin | 
 | ------------- | ------------- | 
-|  folgt |    | 
+|  (*voraussichtlich*) Mi, 16.02.2022 |  14 Uhr   | 
 
 
 
