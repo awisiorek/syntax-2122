@@ -38,24 +38,3 @@ blatt6_5b = [
 blatt6_5c = [
     [SelectionList("Um welchen Faktor erhöht sich die Regelanzahl, wenn man Kongruenz (Agreement) in Numerus und Person durch Integration von Merkmalen in die Kategoriensymbole einer CFG modelliert (S → NP_1_SG VP_1_SG usw.)?", "6", "1", "2", "4", "8", "10", inst=single)]
 ]
-
-blatt6_6a = [
-    [MultipleChoice("Beantworten Sie die beiden obigen Fragen.", correct=["74; (\'address\', \'number\')"], wrong=["74; ( \'number\', \'address\')", "\'rue Pascal\'; (\'spouse\', \'address\', \'street\')"] , inst=single)]
-]
-
-blatt6_6b = [
-    [MultipleChoice("Welche Beispiele erfüllen die obige Subsumptionsbeziehung?", correct=["FS0 = [CAT = N], FS1 = [CAT = N, GEN = MASK]", "FS0 = [CAT = N, GEN = FEM], FS1 = [CAT = N, GEN = FEM]"], wrong=["FS0 = [CAT = N, GEN = MASK], FS1 = [CAT = N]", "FS0 = [CAT = N, GEN = FEM], FS1 = [CAT = DET, GEN = FEM]"])],
-    [MultipleChoice("Was gilt immer für das Ergebnis der Unifikation solcher Merkmalstrukturen?", correct=["Es ist die spezifischere Merkmalsstruktur."], wrong=["Es ist die allgemeinere Merkmalsstruktur.", "Es ist undefiniert."], inst=single)]
-]
-
-blatt6_6c = [
-    [MultipleChoice("Welche der Beispiele erfüllen die Subsumptionsbeziehung aus 10b nicht?", wrong=["FS0 = [CAT = N], FS1 = [CAT = N, GEN = MASK]", "FS0 = [CAT = N, GEN = FEM], FS1 = [CAT = N, GEN = FEM]"], correct=["FS0 = [CAT = N, GEN = MASK], FS1 = [CAT = N]", "FS0 = [CAT = N, GEN = FEM], FS1 = [CAT = DET, GEN = FEM]", "FS0 = [CAT = DET], FS1 = [CAT = N, GEN = MASK]"])]
-]
-
-blatt6_6d = [
-    [MultipleChoice("Im Falle, dass im Zuge einer Unifikation Informationen zum Wert eines Pfades x hinzugefügt werden, wie verändern sich die Werte aller zu x äquivalenten Pfade?", correct=["Sie werden aktualisiert."], wrong=["Sie werden gelöscht.", "Sie werden neu eingefügt."], inst=single)]
-]
-
-blatt6_6e = [
-    [MultipleChoice("Wie läßt sich im NLTK ein äquivalenter Pfad definieren?", correct=["Variable: -> (1)", "?x"], wrong=["Variable: <- (1)", "x?", "!x", "x!"])]
-]
