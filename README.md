@@ -1,4 +1,4 @@
-
+#### Notebooks im nbviewer: https://nbviewer.org/github/awisiorek/syntax-2122
 
 # Vorlesung "Syntax natürlicher Sprachen"
 
