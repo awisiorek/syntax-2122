@@ -69,7 +69,7 @@
 | Vorlesung |  Übung | Thema 
 | ------------- | ------------- | ------------- |  
 | Di, 11.01.22 | Mi, 12.01.22 | 11. **PCFGs & Dependency Parsing** |  
-| Di, 18.01.22 | Mi, 19.01.22 | 12. **Grammar Induction** & *Probeklausur* | 
+| Di, 18.01.22 | Mi, 19.01.22 | 12. **Grammar Induction** & *Probeklausur (18.01.22 ab 11:15)* | 
 
 
 ### V. Partielles Parsing (*Partial Parsing*)
