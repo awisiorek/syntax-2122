@@ -81,10 +81,16 @@
 
 ### Abschlussveranstaltungen (*Exam Preparation*)
 
-| Vorlesung |  Übung | Thema 
+| Datum Vorlesung | Veranstaltung | Thema 
 | ------------- | ------------- | ------------- | 
-| Di, 01.02.22 | Mi, 02.02.22 | 14. **Neural Parsing** & *Klausurvorbereitung<br>(01.02.22 Besprechung Probeklausur)*   | 
-| Di, 08.02.22 | Mi, 09.02.22 |  ***Klausurvorbereitung***  | 
+| Di, 01.02.22 | Vorlesung | 14. *Klausurvorbereitung<br>(Besprechung Probeklausur)*   | 
+| Mi, 02.02.22 | Übung | 14. **Neural Parsing**<br>& *Klausurvorbereitung (Wiederholung)*   | 
+
+
+| Datum Vorlesung | Veranstaltung | Thema 
+| ------------- | ------------- | ------------- | 
+| Di, 08.02.22 | Vorlesung |  ***Klausurvorbereitung (Fragestunde)***  | 
+| Mi, 09.02.22 | Übung |  ***Klausurvorbereitung (Fragestunde)***  | 
 
 
 
