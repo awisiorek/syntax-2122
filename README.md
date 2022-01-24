@@ -84,13 +84,13 @@
 | Datum | Veranstaltung | Thema 
 | ------------- | ------------- | ------------- | 
 | Di, 01.02.22 | Vorlesung | *Klausurvorbereitung<br>(Besprechung Probeklausur)*   | 
-| Mi, 02.02.22 | Übung | Vortrag **Neural Parsing**<br>& *Klausurvorbereitung (Wiederholung)*   | 
+| Mi, 02.02.22 | Übung | Vortrag Neural Parsing<br>& *Klausurvorbereitung (Wiederholung)*   | 
 
 
 | Datum | Veranstaltung | Thema 
 | ------------- | ------------- | ------------- | 
-| Di, 08.02.22 | Vorlesung |  ***Klausurvorbereitung (Fragestunde)***  | 
-| Mi, 09.02.22 | Übung |  ***Klausurvorbereitung (Fragestunde)***  | 
+| Di, 08.02.22 | Vorlesung |  *Klausurvorbereitung (Fragestunde)*  | 
+| Mi, 09.02.22 | Übung |  *Klausurvorbereitung (Fragestunde)*  | 
 
 
 
